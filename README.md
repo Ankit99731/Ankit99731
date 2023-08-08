@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit99731
+- 👋 Hi, I’m @Ankit kumar
 - 👀 I’m interested in full stack developer
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
